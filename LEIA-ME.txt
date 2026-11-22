@@ -1,0 +1,11 @@
+VetEstudo — app instalável (PWA)
+
+Para instalar no celular, esta pasta precisa estar hospedada num endereço https.
+Opções gratuitas: GitHub Pages, Netlify ou Cloudflare Pages (basta enviar o conteúdo desta pasta).
+
+Depois, abra o endereço no celular:
+- Android (Chrome): menu ⋮ > Instalar app (ou Adicionar à tela inicial).
+- iPhone (Safari): botão Compartilhar > Adicionar à Tela de Início.
+
+Na primeira abertura o app baixa todas as questões; depois funciona sem internet.
+Progresso e anotações ficam salvos no próprio celular.
